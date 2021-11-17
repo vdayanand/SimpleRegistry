@@ -1,0 +1,6 @@
+name = "SimpleRegistry"
+uuid = "1b4ed4a1-e93f-4662-97fb-5681e0f87e83"
+repo = "https://github.com/vdayanand/SimpleRegistry"
+description = "a test registry"
+
+[packages]
